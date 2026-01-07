@@ -1,0 +1,44 @@
+
+import time
+
+class LeakyBucket:
+    def __init__(self, capacity, leak_rate):
+        self.capacity = capacity
+        self.leak_rate = leak_rate
+        self.water = 0.0
+        self.last_check = time.time()
+    def add(self, amount=1.0):
+        now = time.time()
+        delta = now - self.last_check
+        self.water = max(0.0, self.water - delta * self.leak_rate)
+        self.last_check = now
+        if self.water + amount <= self.capacity:
+            self.water += amount
+            return True
+        return False
+
+import time
+
+class LeakyBucket:
+    def __init__(self, capacity, leak_rate):
+        self.capacity = capacity
+        self.leak_rate = leak_rate
+        self.water = 0.0
+        self.last_check = time.time()
+    def add(self, amount=1.0):
+        now = time.time()
+        delta = now - self.last_check
+        self.water = max(0.0, self.water - delta * self.leak_rate)
+        self.last_check = now
+        if self.water + amount <= self.capacity:
+            self.water += amount
+            return True
+        return False
+# Implementation of leaky_bucket
+# Last updated: 2026-01-07T21:42:46
+# Complexity: O(log N) or O(1)
+
+def leaky_bucket_operation(x):
+    '''Execution routine for leaky_bucket'''
+    return x * 2
+
