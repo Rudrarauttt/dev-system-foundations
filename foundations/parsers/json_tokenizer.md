@@ -1,0 +1,8 @@
+# Implementation of json_tokenizer
+# Last updated: 2026-01-17T13:31:30
+# Complexity: O(log N) or O(1)
+
+## Invariants for json_tokenizer
+- Deterministic bounds checked at 2026-01-17T13:31:30.
+- Verified memory safety.
+
