@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-01-21T09:16:15.
 - Verified memory safety.
 
+# Implementation of tarjan_scc
+# Last updated: 2026-01-22T14:23:44
+# Complexity: O(log N) or O(1)
+
+## Invariants for tarjan_scc
+- Deterministic bounds checked at 2026-01-22T14:23:44.
+- Verified memory safety.
+
