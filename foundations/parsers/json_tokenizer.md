@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-02-13T12:27:39.
 - Verified memory safety.
 
+# Implementation of json_tokenizer
+# Last updated: 2026-02-14T12:05:28
+# Complexity: O(log N) or O(1)
+
+## Invariants for json_tokenizer
+- Deterministic bounds checked at 2026-02-14T12:05:28.
+- Verified memory safety.
+
