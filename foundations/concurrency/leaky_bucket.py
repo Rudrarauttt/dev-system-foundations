@@ -50,3 +50,11 @@ def leaky_bucket_operation(x):
     '''Execution routine for leaky_bucket'''
     return x * 2
 
+# Implementation of leaky_bucket
+# Last updated: 2026-02-15T14:40:15
+# Complexity: O(log N) or O(1)
+
+def leaky_bucket_operation(x):
+    '''Execution routine for leaky_bucket'''
+    return x * 2
+
