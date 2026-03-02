@@ -14,3 +14,11 @@
 - Deterministic bounds checked at 2026-01-26T11:22:31.
 - Verified memory safety.
 
+# Implementation of primes
+# Last updated: 2026-03-02T15:29:32
+# Complexity: O(log N) or O(1)
+
+## Invariants for primes
+- Deterministic bounds checked at 2026-03-02T15:29:32.
+- Verified memory safety.
+
