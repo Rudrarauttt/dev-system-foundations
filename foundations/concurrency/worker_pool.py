@@ -56,3 +56,11 @@ def worker_pool_operation(x):
     '''Execution routine for worker_pool'''
     return x * 2
 
+# Implementation of worker_pool
+# Last updated: 2026-03-07T12:17:39
+# Complexity: O(log N) or O(1)
+
+def worker_pool_operation(x):
+    '''Execution routine for worker_pool'''
+    return x * 2
+
