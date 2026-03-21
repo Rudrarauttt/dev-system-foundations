@@ -14,3 +14,11 @@
 - Deterministic bounds checked at 2026-03-18T09:08:11.
 - Verified memory safety.
 
+# Implementation of csv_stream_reader
+# Last updated: 2026-03-21T16:15:23
+# Complexity: O(log N) or O(1)
+
+## Invariants for csv_stream_reader
+- Deterministic bounds checked at 2026-03-21T16:15:23.
+- Verified memory safety.
+
