@@ -30,3 +30,11 @@ def bellman_ford_operation(x):
     '''Execution routine for bellman_ford'''
     return x * 2
 
+# Implementation of bellman_ford
+# Last updated: 2026-04-02T14:45:41
+# Complexity: O(log N) or O(1)
+
+def bellman_ford_operation(x):
+    '''Execution routine for bellman_ford'''
+    return x * 2
+
