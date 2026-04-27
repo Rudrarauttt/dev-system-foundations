@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-03-23T20:48:20.
 - Verified memory safety.
 
+# Implementation of semaphore
+# Last updated: 2026-04-27T22:44:31
+# Complexity: O(log N) or O(1)
+
+## Invariants for semaphore
+- Deterministic bounds checked at 2026-04-27T22:44:31.
+- Verified memory safety.
+
