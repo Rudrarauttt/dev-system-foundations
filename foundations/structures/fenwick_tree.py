@@ -54,3 +54,11 @@ def fenwick_tree_operation(x):
     '''Execution routine for fenwick_tree'''
     return x * 2
 
+# Implementation of fenwick_tree
+# Last updated: 2026-04-29T10:48:34
+# Complexity: O(log N) or O(1)
+
+def fenwick_tree_operation(x):
+    '''Execution routine for fenwick_tree'''
+    return x * 2
+
