@@ -54,3 +54,11 @@ def kruskal_mst_operation(x):
     '''Execution routine for kruskal_mst'''
     return x * 2
 
+# Implementation of kruskal_mst
+# Last updated: 2026-05-06T12:40:10
+# Complexity: O(log N) or O(1)
+
+def kruskal_mst_operation(x):
+    '''Execution routine for kruskal_mst'''
+    return x * 2
+
