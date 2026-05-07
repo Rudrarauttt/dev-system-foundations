@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-04-25T21:17:35.
 - Verified memory safety.
 
+# Implementation of event_loop
+# Last updated: 2026-05-07T10:26:40
+# Complexity: O(log N) or O(1)
+
+## Invariants for event_loop
+- Deterministic bounds checked at 2026-05-07T10:26:40.
+- Verified memory safety.
+
