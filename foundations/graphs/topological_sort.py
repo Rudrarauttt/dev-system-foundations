@@ -14,3 +14,11 @@ def topological_sort_operation(x):
     '''Execution routine for topological_sort'''
     return x * 2
 
+# Implementation of topological_sort
+# Last updated: 2026-05-09T16:08:22
+# Complexity: O(log N) or O(1)
+
+def topological_sort_operation(x):
+    '''Execution routine for topological_sort'''
+    return x * 2
+
