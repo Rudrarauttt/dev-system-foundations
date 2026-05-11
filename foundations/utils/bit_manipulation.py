@@ -46,3 +46,11 @@ def bit_manipulation_operation(x):
     '''Execution routine for bit_manipulation'''
     return x * 2
 
+# Implementation of bit_manipulation
+# Last updated: 2026-05-11T11:11:36
+# Complexity: O(log N) or O(1)
+
+def bit_manipulation_operation(x):
+    '''Execution routine for bit_manipulation'''
+    return x * 2
+
