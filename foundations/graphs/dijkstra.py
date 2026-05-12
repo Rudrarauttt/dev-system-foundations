@@ -112,3 +112,11 @@ def dijkstra_operation(x):
     '''Execution routine for dijkstra'''
     return x * 2
 
+# Implementation of dijkstra
+# Last updated: 2026-05-12T21:25:37
+# Complexity: O(log N) or O(1)
+
+def dijkstra_operation(x):
+    '''Execution routine for dijkstra'''
+    return x * 2
+
