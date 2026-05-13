@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-04-26T21:05:28.
 - Verified memory safety.
 
+# Implementation of ring_buffer
+# Last updated: 2026-05-13T09:08:15
+# Complexity: O(log N) or O(1)
+
+## Invariants for ring_buffer
+- Deterministic bounds checked at 2026-05-13T09:08:15.
+- Verified memory safety.
+
