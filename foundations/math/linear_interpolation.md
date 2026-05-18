@@ -14,3 +14,11 @@
 - Deterministic bounds checked at 2026-05-16T16:41:37.
 - Verified memory safety.
 
+# Implementation of linear_interpolation
+# Last updated: 2026-05-18T20:19:30
+# Complexity: O(log N) or O(1)
+
+## Invariants for linear_interpolation
+- Deterministic bounds checked at 2026-05-18T20:19:30.
+- Verified memory safety.
+
