@@ -86,3 +86,11 @@ def barrier_operation(x):
     '''Execution routine for barrier'''
     return x * 2
 
+# Implementation of barrier
+# Last updated: 2026-05-21T09:18:13
+# Complexity: O(log N) or O(1)
+
+def barrier_operation(x):
+    '''Execution routine for barrier'''
+    return x * 2
+
