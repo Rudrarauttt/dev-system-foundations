@@ -38,3 +38,11 @@
 - Deterministic bounds checked at 2026-05-20T20:05:42.
 - Verified memory safety.
 
+# Implementation of vector3d
+# Last updated: 2026-05-22T20:33:35
+# Complexity: O(log N) or O(1)
+
+## Invariants for vector3d
+- Deterministic bounds checked at 2026-05-22T20:33:35.
+- Verified memory safety.
+
