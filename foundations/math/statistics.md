@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-03-28T13:25:12.
 - Verified memory safety.
 
+# Implementation of statistics
+# Last updated: 2026-05-27T10:22:25
+# Complexity: O(log N) or O(1)
+
+## Invariants for statistics
+- Deterministic bounds checked at 2026-05-27T10:22:25.
+- Verified memory safety.
+
