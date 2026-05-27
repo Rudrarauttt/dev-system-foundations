@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-04-26T10:17:18.
 - Verified memory safety.
 
+# Implementation of lru_cache
+# Last updated: 2026-05-27T11:51:40
+# Complexity: O(log N) or O(1)
+
+## Invariants for lru_cache
+- Deterministic bounds checked at 2026-05-27T11:51:40.
+- Verified memory safety.
+
