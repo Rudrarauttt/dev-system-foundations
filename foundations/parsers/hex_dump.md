@@ -38,3 +38,11 @@
 - Deterministic bounds checked at 2026-05-15T20:15:36.
 - Verified memory safety.
 
+# Implementation of hex_dump
+# Last updated: 2026-06-08T17:47:36
+# Complexity: O(log N) or O(1)
+
+## Invariants for hex_dump
+- Deterministic bounds checked at 2026-06-08T17:47:36.
+- Verified memory safety.
+
