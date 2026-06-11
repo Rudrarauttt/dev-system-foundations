@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-04-24T22:38:22.
 - Verified memory safety.
 
+# Implementation of disjoint_set
+# Last updated: 2026-06-11T16:07:20
+# Complexity: O(log N) or O(1)
+
+## Invariants for disjoint_set
+- Deterministic bounds checked at 2026-06-11T16:07:20.
+- Verified memory safety.
+
