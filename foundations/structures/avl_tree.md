@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-05-06T19:48:18.
 - Verified memory safety.
 
+# Implementation of avl_tree
+# Last updated: 2026-06-15T19:34:14
+# Complexity: O(log N) or O(1)
+
+## Invariants for avl_tree
+- Deterministic bounds checked at 2026-06-15T19:34:14.
+- Verified memory safety.
+
