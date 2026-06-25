@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-06-16T12:29:44.
 - Verified memory safety.
 
+# Implementation of channel
+# Last updated: 2026-06-25T21:36:13
+# Complexity: O(log N) or O(1)
+
+## Invariants for channel
+- Deterministic bounds checked at 2026-06-25T21:36:13.
+- Verified memory safety.
+
