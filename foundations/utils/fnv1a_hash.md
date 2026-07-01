@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-06-21T17:36:48.
 - Verified memory safety.
 
+# Implementation of fnv1a_hash
+# Last updated: 2026-07-01T16:32:11
+# Complexity: O(log N) or O(1)
+
+## Invariants for fnv1a_hash
+- Deterministic bounds checked at 2026-07-01T16:32:11.
+- Verified memory safety.
+
