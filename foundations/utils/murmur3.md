@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-06-26T11:21:24.
 - Verified memory safety.
 
+# Implementation of murmur3
+# Last updated: 2026-07-01T17:47:19
+# Complexity: O(log N) or O(1)
+
+## Invariants for murmur3
+- Deterministic bounds checked at 2026-07-01T17:47:19.
+- Verified memory safety.
+
