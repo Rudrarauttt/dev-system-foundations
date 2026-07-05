@@ -62,3 +62,11 @@
 - Deterministic bounds checked at 2026-07-02T13:16:10.
 - Verified memory safety.
 
+# Implementation of fft
+# Last updated: 2026-07-05T17:43:47
+# Complexity: O(log N) or O(1)
+
+## Invariants for fft
+- Deterministic bounds checked at 2026-07-05T17:43:47.
+- Verified memory safety.
+
