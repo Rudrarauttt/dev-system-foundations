@@ -110,3 +110,11 @@ def fft_operation(x):
     '''Execution routine for fft'''
     return x * 2
 
+# Implementation of fft
+# Last updated: 2026-07-06T12:21:35
+# Complexity: O(log N) or O(1)
+
+def fft_operation(x):
+    '''Execution routine for fft'''
+    return x * 2
+
