@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-06-14T21:26:26.
 - Verified memory safety.
 
+# Implementation of backoff_timer
+# Last updated: 2026-07-12T12:27:14
+# Complexity: O(log N) or O(1)
+
+## Invariants for backoff_timer
+- Deterministic bounds checked at 2026-07-12T12:27:14.
+- Verified memory safety.
+
