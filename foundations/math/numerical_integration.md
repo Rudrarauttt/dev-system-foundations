@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-03-23T13:39:30.
 - Verified memory safety.
 
+# Implementation of numerical_integration
+# Last updated: 2026-07-16T11:32:29
+# Complexity: O(log N) or O(1)
+
+## Invariants for numerical_integration
+- Deterministic bounds checked at 2026-07-16T11:32:29.
+- Verified memory safety.
+
