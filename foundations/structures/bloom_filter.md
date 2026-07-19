@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-07-03T12:50:43.
 - Verified memory safety.
 
+# Implementation of bloom_filter
+# Last updated: 2026-07-19T15:21:48
+# Complexity: O(log N) or O(1)
+
+## Invariants for bloom_filter
+- Deterministic bounds checked at 2026-07-19T15:21:48.
+- Verified memory safety.
+
