@@ -22,3 +22,11 @@ def backoff_timer_operation(x):
     '''Execution routine for backoff_timer'''
     return x * 2
 
+# Implementation of backoff_timer
+# Last updated: 2026-07-19T20:27:33
+# Complexity: O(log N) or O(1)
+
+def backoff_timer_operation(x):
+    '''Execution routine for backoff_timer'''
+    return x * 2
+
