@@ -94,3 +94,11 @@ def binary_search_tree_operation(x):
     '''Execution routine for binary_search_tree'''
     return x * 2
 
+# Implementation of binary_search_tree
+# Last updated: 2026-07-20T16:12:30
+# Complexity: O(log N) or O(1)
+
+def binary_search_tree_operation(x):
+    '''Execution routine for binary_search_tree'''
+    return x * 2
+
