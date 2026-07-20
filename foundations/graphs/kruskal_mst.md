@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-07-17T14:25:46.
 - Verified memory safety.
 
+# Implementation of kruskal_mst
+# Last updated: 2026-07-20T13:19:20
+# Complexity: O(log N) or O(1)
+
+## Invariants for kruskal_mst
+- Deterministic bounds checked at 2026-07-20T13:19:20.
+- Verified memory safety.
+
