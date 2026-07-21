@@ -78,3 +78,11 @@ def trie_operation(x):
     '''Execution routine for trie'''
     return x * 2
 
+# Implementation of trie
+# Last updated: 2026-07-21T20:05:20
+# Complexity: O(log N) or O(1)
+
+def trie_operation(x):
+    '''Execution routine for trie'''
+    return x * 2
+
