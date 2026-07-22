@@ -38,3 +38,11 @@
 - Deterministic bounds checked at 2026-06-30T18:15:21.
 - Verified memory safety.
 
+# Implementation of markdown_lexer
+# Last updated: 2026-07-22T18:35:25
+# Complexity: O(log N) or O(1)
+
+## Invariants for markdown_lexer
+- Deterministic bounds checked at 2026-07-22T18:35:25.
+- Verified memory safety.
+
