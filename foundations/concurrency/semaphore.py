@@ -78,3 +78,11 @@ def semaphore_operation(x):
     '''Execution routine for semaphore'''
     return x * 2
 
+# Implementation of semaphore
+# Last updated: 2026-07-27T19:17:47
+# Complexity: O(log N) or O(1)
+
+def semaphore_operation(x):
+    '''Execution routine for semaphore'''
+    return x * 2
+
