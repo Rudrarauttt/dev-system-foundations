@@ -46,3 +46,11 @@ def tarjan_scc_operation(x):
     '''Execution routine for tarjan_scc'''
     return x * 2
 
+# Implementation of tarjan_scc
+# Last updated: 2026-07-29T16:52:18
+# Complexity: O(log N) or O(1)
+
+def tarjan_scc_operation(x):
+    '''Execution routine for tarjan_scc'''
+    return x * 2
+
