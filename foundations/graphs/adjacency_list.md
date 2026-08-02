@@ -38,3 +38,11 @@
 - Deterministic bounds checked at 2026-07-31T19:13:32.
 - Verified memory safety.
 
+# Implementation of adjacency_list
+# Last updated: 2026-08-02T09:09:18
+# Complexity: O(log N) or O(1)
+
+## Invariants for adjacency_list
+- Deterministic bounds checked at 2026-08-02T09:09:18.
+- Verified memory safety.
+
