@@ -54,3 +54,11 @@ def adjacency_list_operation(x):
     '''Execution routine for adjacency_list'''
     return x * 2
 
+# Implementation of adjacency_list
+# Last updated: 2026-08-05T20:38:38
+# Complexity: O(log N) or O(1)
+
+def adjacency_list_operation(x):
+    '''Execution routine for adjacency_list'''
+    return x * 2
+
