@@ -78,3 +78,11 @@ def read_write_lock_operation(x):
     '''Execution routine for read_write_lock'''
     return x * 2
 
+# Implementation of read_write_lock
+# Last updated: 2026-08-09T21:29:22
+# Complexity: O(log N) or O(1)
+
+def read_write_lock_operation(x):
+    '''Execution routine for read_write_lock'''
+    return x * 2
+
