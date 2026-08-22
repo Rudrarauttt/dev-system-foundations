@@ -46,3 +46,11 @@
 - Deterministic bounds checked at 2026-08-07T16:08:22.
 - Verified memory safety.
 
+# Implementation of dfs_path
+# Last updated: 2026-08-22T18:37:47
+# Complexity: O(log N) or O(1)
+
+## Invariants for dfs_path
+- Deterministic bounds checked at 2026-08-22T18:37:47.
+- Verified memory safety.
+
