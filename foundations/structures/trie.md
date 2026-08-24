@@ -38,3 +38,11 @@
 - Deterministic bounds checked at 2026-07-30T19:41:24.
 - Verified memory safety.
 
+# Implementation of trie
+# Last updated: 2026-08-24T14:54:50
+# Complexity: O(log N) or O(1)
+
+## Invariants for trie
+- Deterministic bounds checked at 2026-08-24T14:54:50.
+- Verified memory safety.
+
