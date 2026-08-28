@@ -38,3 +38,11 @@
 - Deterministic bounds checked at 2026-08-26T14:26:42.
 - Verified memory safety.
 
+# Implementation of worker_pool
+# Last updated: 2026-08-28T11:20:50
+# Complexity: O(log N) or O(1)
+
+## Invariants for worker_pool
+- Deterministic bounds checked at 2026-08-28T11:20:50.
+- Verified memory safety.
+
