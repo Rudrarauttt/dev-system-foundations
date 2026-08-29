@@ -22,3 +22,11 @@
 - Deterministic bounds checked at 2026-07-13T12:20:32.
 - Verified memory safety.
 
+# Implementation of leaky_bucket
+# Last updated: 2026-08-29T16:42:26
+# Complexity: O(log N) or O(1)
+
+## Invariants for leaky_bucket
+- Deterministic bounds checked at 2026-08-29T16:42:26.
+- Verified memory safety.
+
