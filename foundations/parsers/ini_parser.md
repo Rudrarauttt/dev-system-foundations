@@ -46,3 +46,11 @@
 - Deterministic bounds checked at 2026-09-01T10:36:27.
 - Verified memory safety.
 
+# Implementation of ini_parser
+# Last updated: 2026-09-13T09:35:14
+# Complexity: O(log N) or O(1)
+
+## Invariants for ini_parser
+- Deterministic bounds checked at 2026-09-13T09:35:14.
+- Verified memory safety.
+
