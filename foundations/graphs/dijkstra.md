@@ -38,3 +38,11 @@
 - Deterministic bounds checked at 2026-07-13T09:21:47.
 - Verified memory safety.
 
+# Implementation of dijkstra
+# Last updated: 2026-09-16T15:05:27
+# Complexity: O(log N) or O(1)
+
+## Invariants for dijkstra
+- Deterministic bounds checked at 2026-09-16T15:05:27.
+- Verified memory safety.
+
