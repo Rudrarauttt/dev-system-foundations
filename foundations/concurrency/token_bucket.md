@@ -30,3 +30,11 @@
 - Deterministic bounds checked at 2026-07-29T17:28:41.
 - Verified memory safety.
 
+# Implementation of token_bucket
+# Last updated: 2026-09-18T18:27:46
+# Complexity: O(log N) or O(1)
+
+## Invariants for token_bucket
+- Deterministic bounds checked at 2026-09-18T18:27:46.
+- Verified memory safety.
+
